@@ -93,3 +93,6 @@ postcss-spiffing
 * `'word-spacing': 'werd-spacin'`
 * `'word-wrap': 'werd-wrap'`
 * `'writing-mode': 'writin-mode'`
+* `'fixed': 'fixd'`
+* `'relative': 'relativ'`
+* `'right': 'rite'`
