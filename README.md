@@ -17,8 +17,6 @@ PostCSS Trump Stylesheets
 /* coming soon */
 ```
 
-\#
-
 ```js
 postcss([ require('postcss-trumpisms-stylesheets') ])
 ```
