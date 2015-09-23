@@ -1,4 +1,4 @@
-postcss-spiffing
+postcss-trumpism
 ---
 
 ### Definitions to write
